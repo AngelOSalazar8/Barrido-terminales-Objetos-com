@@ -1,0 +1,13 @@
+instalar librerias que se usan con: 
+pip install -r requirements.txt
+
+y para 32 bits 
+pip32 install -r requirements.txt
+
+
+ya esta listo el luncher :  consulta, extrae IATAs, filtra y guarda en csv, corre el barrido
+ correctamente. Luego genera la columna grupo llena y tipo para mandarselo a Gabo
+
+
+
+ 

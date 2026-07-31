@@ -1,0 +1,10 @@
+{
+  "db": {
+    "driver": "ODBC Driver 17 for SQL Server",
+    "server": "svrbdpricing",
+    "database": "CatalogosYielding",
+    "usernameDB":"yield",
+    "passwordDB":"Y13ld-15"
+    
+  }
+}

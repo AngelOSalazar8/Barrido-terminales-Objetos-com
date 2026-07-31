@@ -1,0 +1,7 @@
+{   
+    "driver" : "{ODBC Driver 17 for SQL Server}",
+    "server" : "BDSERVER4",
+    "database" : "dbAreaCorp",
+    "usr" : "usr_QueriesYielding",
+    "pwd" : "Y13ld$_Qu3ry+"
+}

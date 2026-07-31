@@ -1,0 +1,13 @@
+ya esta listo dentro de lo que cabe, 
+
+La parte de IATAS ya funciona correctamente, extrae y filtra las IATAs nuevas
+te invoca el barrido wizard que el exe ya se debera haber recompulado sino el .py debe funcionar bien
+y te genera el archivo con la columna tipo que se debe pasar a Gabo para que complete.
+ tambien le añadimos una forma para actualizar los datos de las iatas y las awd, que con las iatas ya funciona.
+
+la parte de AWDs sigue casi la misma logica solo que se debe hacer un cruce manual de lo
+extraido con los archivos de excel de drive para ver las Awds introducidas manualmente y no se excluya alguna
+quizas deba considerar automatizaar el cruce de informacion. 
+
+link de agencias con awd : https://docs.google.com/spreadsheets/d/1TFmpk9xKI2R_eUTFj9M9GzlMEMzPxoImj5hmiGQbkjE/edit?usp=sharing
+link de total de cuentas : https://docs.google.com/spreadsheets/d/1uos5-O1BmE6DdfHAwvV83FwxxIxjr9d4SJ5WQ4nYi40/edit?usp=sharing
